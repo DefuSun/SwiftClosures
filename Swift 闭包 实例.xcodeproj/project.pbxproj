@@ -14,6 +14,7 @@
 		04EE49151D51996200422909 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04EE49131D51996200422909 /* LaunchScreen.storyboard */; };
 		04EE49201D51996200422909 /* Swift______Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04EE491F1D51996200422909 /* Swift______Tests.swift */; };
 		04EE492B1D51996200422909 /* Swift______UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04EE492A1D51996200422909 /* Swift______UITests.swift */; };
+		04EE49391D51F7A900422909 /* NextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04EE49381D51F7A900422909 /* NextView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		04EE49261D51996200422909 /* Swift 闭包 实例UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Swift 闭包 实例UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		04EE492A1D51996200422909 /* Swift______UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Swift______UITests.swift"; sourceTree = "<group>"; };
 		04EE492C1D51996200422909 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		04EE49381D51F7A900422909 /* NextView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NextView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				04EE490A1D51996200422909 /* AppDelegate.swift */,
 				04EE490C1D51996200422909 /* ViewController.swift */,
+				04EE49381D51F7A900422909 /* NextView.swift */,
 				04EE490E1D51996200422909 /* Main.storyboard */,
 				04EE49111D51996200422909 /* Assets.xcassets */,
 				04EE49131D51996200422909 /* LaunchScreen.storyboard */,
@@ -258,6 +261,7 @@
 			files = (
 				04EE490D1D51996200422909 /* ViewController.swift in Sources */,
 				04EE490B1D51996200422909 /* AppDelegate.swift in Sources */,
+				04EE49391D51F7A900422909 /* NextView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
